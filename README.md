@@ -1,6 +1,7 @@
 # 2023,『올담』 데이터 활용 시각화 경진대회 <우수상>
 
 ## &nbsp;&nbsp;&nbsp;Competition
+- <a href="https://alldam.chungnam.go.kr/index.chungnam">홈페이지</a>
 - 주제: 충청남도 관련 자유주제
 - 참가 대상: 데이터 활용 시각화에 관심 있는 국민 누구나(개인)
 - 활용 데이터: 올담 제공 데이터 및 공공데이터 포털 등
